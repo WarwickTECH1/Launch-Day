@@ -1,6 +1,6 @@
 # Tech Night LDN website
 
-###The offical repo for the [Tech Night LDN website](http://technight.london)!
+###The offical repo for the Launch Day Website
 
 (You should totally come to the event.)
 
